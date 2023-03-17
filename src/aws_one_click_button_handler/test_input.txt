@@ -1,0 +1,4 @@
+{
+    "devicePayload" : {"clickType" : "SINGLE"},
+    "deviceEvent" : {"buttonClicked" : {"reportedTime" : 1111111}}
+}
